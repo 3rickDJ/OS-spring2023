@@ -2,6 +2,15 @@
 
 ## Curiosidades de c
 
+### Dependencies
+
++ gcc (c compiler)
+
+**(if you are on a debian based system eg. Ubuntu) To install it type in your terminal**
+```bash
+sudo apt-get install gcc
+```
+
 ### How to compile and run it (on your terminal)
 
 #### Compile source code
