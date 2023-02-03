@@ -6,7 +6,7 @@
 
 + gcc (c compiler)
 
-**(if you are on a debian based system eg. Ubuntu) To install it type in your terminal**
+**(if you are on a Debian based system eg. Ubuntu) To install it type in your terminal**
 ```bash
 sudo apt-get install gcc
 ```
@@ -29,3 +29,7 @@ In your shell type
 ./main.exe
 ```
 
+## Some useful links
+
+- [Ideone](https://ideone.com/) for compile and run `.c` files online.
+- [Deepnote](https://www.deepnote.com) a "online ubuntu terminal".
