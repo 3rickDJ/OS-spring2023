@@ -173,6 +173,7 @@ A_CHARTEXT        | ---
 ### Constantes
 
 Nombre       | Símbolo
+-------------|---------
 ACS_ULCORNER | ┌
 ACS_LLCORNER | └
 ACS_URCORNER | ┐
