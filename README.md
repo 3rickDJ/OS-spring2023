@@ -1,6 +1,6 @@
 # OS
 
-## Curiosidades de c
+## Practice 1. Curiosidades de C
 
 ### Dependencies
 
@@ -11,18 +11,32 @@
 sudo apt-get install gcc
 ```
 
-### How to compile and run it (on your terminal)
-
-#### Compile source code
+### Compile Source Code
 First compile the source file with the `gcc` compiler
 
 ```bash
-$ gcc main.c -o main.exe
+gcc main.c -o main.exe
 ```
 
 Now you will have a `main.exe` file in your current diretory
 
-#### Execute binary
+## Practice 2. Programación con ncurses
+
+### Dependencies
+
+- ncurses library
+
+```bash
+sudo apt install libncurses5-dev libncursesw5-dev
+```
+
+### Compile Source Code
+
+```bash
+gcc -o main main.c -l ncurses
+```
+
+## How to Execute Binary Files
 
 In your shell type
 ```bash
