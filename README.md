@@ -36,6 +36,10 @@ sudo apt install libncurses5-dev libncursesw5-dev
 gcc -o main main.c -l ncurses
 ```
 
+## Practice 3. Argumentos para Main
+
+There is nothing special to run this practice.
+
 ## How to Execute Binary Files
 
 In your shell type
