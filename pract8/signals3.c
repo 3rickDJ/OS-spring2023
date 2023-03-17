@@ -34,5 +34,5 @@ int main() {
 void atrapa(int sig)
 {
   signal(sig, atrapa);
-  printf("SIGUSR1,magnicidio%d\n:   ", sig);
+  printf("SIGUSR1,magnicidio\n");
 }
